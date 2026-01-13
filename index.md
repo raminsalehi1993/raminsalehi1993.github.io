@@ -16,7 +16,7 @@ Kansas State University
 - Quantum kernels and hybrid quantum–classical algorithms
 
 ## Projects
-- **DQC1 Entropy Clustering** (coming soon)
+DQC1 Entropy Clustering- https://github.com/raminsalehi1993/dqc1-entropy-clustering
 
 ## Contact
 raminsalehi@ksu.edu
