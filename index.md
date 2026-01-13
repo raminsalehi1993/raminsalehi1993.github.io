@@ -1,9 +1,21 @@
 ---
+layout: default
 title: Ramin Salehi
 ---
 
 # Ramin Salehi
 
-This site hosts my research projects, code, posters, and papers.
+Ph.D. Student, Electrical and Computer Engineering  
+Kansas State University
 
-- DQC1 Entropy Clustering (coming soon)
+## Research Interests
+- Quantum Machine Learning
+- Deterministic Quantum Computation with One Qubit (DQC1)
+- Entropy-based clustering
+- Quantum kernels and hybrid quantum–classical algorithms
+
+## Projects
+- **DQC1 Entropy Clustering** (coming soon)
+
+## Contact
+raminsalehi@ksu.edu
