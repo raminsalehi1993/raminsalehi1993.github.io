@@ -16,7 +16,7 @@ Kansas State University
 - Quantum kernels and hybrid quantum–classical algorithms
 
 ## Projects
-DQC1 Entropy Clustering- https://github.com/raminsalehi1993/dqc1-entropy-clustering
+DQC1 Entropy Clustering- https://github.com/raminsalehi1993/Unsupervised-quantum-machine-learning-using-one-clean-qubit
 
 ## Contact
 raminsalehi@ksu.edu
